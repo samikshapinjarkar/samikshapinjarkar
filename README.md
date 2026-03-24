@@ -1,71 +1,73 @@
-<h1 align="center">Hi 👋, I'm Samiksha</h1>
-<h3 align="center">🚀 Passionate Developer | 💻 Tech Explorer | 🌱 Lifelong Learner</h3>
+# Hi there 👋, I'm Samiksha Pinjarkar
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+Love+Coding+%F0%9F%92%BB;Building+Cool+Projects+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%9A%80">
-</p>
+Welcome to my GitHub portfolio!  
+I'm a **Computer Science Student** passionate about technology, innovation, and building intelligent web applications. Here, you'll find my projects, technical skills, and insights into my journey as a developer.
 
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Cool Projects**
-- 🌱 I’m learning **Web Development & AI**
-- 💬 Ask me about **Coding & Tech**
-- ⚡ Fun fact: I love solving problems 😎
+
+I'm **Samiksha Pinjarkar**, currently pursuing a **B.Tech in Computer Science & Engineering** at **Government College of Engineering, Nagpur**.  
+
+My tech journey started with **C programming**, evolved into **Frontend Development, MERN Stack, and Java**, and now I'm **exploring AI & Machine Learning**.  
+
+I enjoy **designing responsive, user-friendly interfaces**, solving complex problems, and building innovative web solutions. My goal is to contribute to teams that **drive technological innovation and create a positive impact on society**.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode" />
-</p>
+## 💻 Skills & Technologies
+
+**Frontend & Web Development:**  
+HTML | CSS | JavaScript | React | Responsive Design | UI/UX Design  
+
+**Backend & Full-Stack:**  
+Node.js | Express.js | MongoDB | MERN Stack (Foundational) | Java | Python  
+
+**Data Structures & Algorithms:**  
+DSA Fundamentals | Problem Solving | Coding Challenges  
+
+**Exploring:**  
+AI & Machine Learning | Data Analysis | Neural Networks  
+
+**Tools & Platforms:**  
+Git & GitHub | VS Code | Postman | Figma  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samikshapinjarkar&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samikshapinjarkar&theme=radical" height="180"/>
-</p>
+## 🏆 Internships & Experience
+
+**Oasis Infobyte** – Intern  
+- Gained hands-on experience in frontend and backend development  
+- Contributed to MERN Stack projects and web solutions  
+
+**TechnoHack Solutions Pvt. Ltd.** – Python Developer Intern  
+- Developed web applications using **Python**  
+- Worked on backend logic, data handling, and project integration  
 
 ---
 
-## 🚀 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikshapinjarkar&layout=compact&theme=radical"/>
-</p>
+## 🚀 Projects
+
+**FinMate – Smart Family Finance Manager**  
+- Designed and developed a fully functional web application using **HTML, CSS, JavaScript**  
+- Implemented a dark-themed, responsive UI with interactive dashboards, income & expense tracking, savings goals, AI assistant for budget suggestions, and visualization of financial data  
+
+**SoulSync – Mood & Wellness Tracker**  
+- Built with **HTML, CSS, JavaScript (Frontend), Python Flask & MySQL (Backend)**  
+- Tracks moods, offers meditation sessions, period analysis, daily positive quotes, and personalized wellness suggestions  
+
+> Explore my repositories to see live demos, code samples, and detailed documentation of all my projects.
 
 ---
 
-## 🎯 Animated Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samikshapinjarkar&theme=react-dark"/>
-</p>
+## 📫 Connect with Me
+
+- LinkedIn: [Samiksha Pinjarkar](https://www.linkedin.com/in/samiksha-pinjarkar-b11327307/)  
+- GitHub: [Samiksha Pinjarkar](https://github.com/samikshapinjarkar)  
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samikshapinjarkar&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
+## ⚡ Fun Fact
 
----
-
-## 📫 Connect With Me
-<p align="center">
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
-</p>
-
----
-
-## 🐍 Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-⭐️ From [Samiksha](https://github.com/samikshapinjarkar)
+- Coffee-powered coder ☕ | Lifelong learner 🤓  
+- Love exploring **new technologies** and building **intelligent, interactive web experiences**
