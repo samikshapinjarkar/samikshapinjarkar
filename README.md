@@ -1,73 +1,74 @@
-# Hi there 👋, I'm Samiksha Pinjarkar
+# 👋 Hi, I'm Samiksha Pinjarkar
 
 Welcome to my GitHub portfolio!  
-I'm a **Computer Science Student** passionate about technology, innovation, and building intelligent web applications. Here, you'll find my projects, technical skills, and insights into my journey as a developer.
+I'm a **Computer Science Student** passionate about technology, innovation, and building intelligent web applications.
 
 ---
 
 ## 🌟 About Me
 
-I'm **Samiksha Pinjarkar**, currently pursuing a **B.Tech in Computer Science & Engineering** at **Government College of Engineering, Nagpur**.  
-
-My tech journey started with **C programming**, evolved into **Frontend Development, MERN Stack, and Java**, and now I'm **exploring AI & Machine Learning**.  
-
-I enjoy **designing responsive, user-friendly interfaces**, solving complex problems, and building innovative web solutions. My goal is to contribute to teams that **drive technological innovation and create a positive impact on society**.
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Government College of Engineering, Nagpur**  
+- 💻 Skilled in **Frontend Development, MERN Stack, Java**  
+- 🤖 Exploring **AI & Machine Learning**  
+- 🌱 Passionate about **building responsive, user-friendly interfaces**  
+- 🚀 Goal: Contribute to teams that **drive innovation and create a positive impact**  
 
 ---
 
-## 💻 Skills & Technologies
+## 💻 Tech Stack
 
-**Frontend & Web Development:**  
-HTML | CSS | JavaScript | React | Responsive Design | UI/UX Design  
+### Frontend
+HTML | CSS | JavaScript | React | Responsive Design | UI/UX  
 
-**Backend & Full-Stack:**  
+### Backend & Full-Stack
 Node.js | Express.js | MongoDB | MERN Stack (Foundational) | Java | Python  
 
-**Data Structures & Algorithms:**  
-DSA Fundamentals | Problem Solving | Coding Challenges  
-
-**Exploring:**  
+### Data & AI
 AI & Machine Learning | Data Analysis | Neural Networks  
 
-**Tools & Platforms:**  
+### Tools & Platforms
 Git & GitHub | VS Code | Postman | Figma  
+
+---
+
+## 🚀 Featured Projects
+
+**FinMate – Smart Family Finance Manager**  
+- Fully responsive dark-themed web app for family finance management  
+- Features: dashboards, income/expense tracking, AI assistant for budgeting  
+
+**SoulSync – Mood & Wellness Tracker**  
+- Built with Flask & MySQL backend, HTML/CSS/JS frontend  
+- Tracks moods, meditation sessions, period analysis, daily positive quotes  
+
+> Explore my repositories for **live demos, code samples, and detailed documentation**  
 
 ---
 
 ## 🏆 Internships & Experience
 
-**Oasis Infobyte** – Intern  
-- Gained hands-on experience in frontend and backend development  
-- Contributed to MERN Stack projects and web solutions  
+**Oasis Infobyte – Intern**  
+- Hands-on experience in **Frontend & Backend Development**  
+- Worked on MERN Stack projects and web solutions  
 
-**TechnoHack Solutions Pvt. Ltd.** – Python Developer Intern  
-- Developed web applications using **Python**  
-- Worked on backend logic, data handling, and project integration  
+**TechnoHack Solutions Pvt. Ltd. – Python Developer Intern**  
+- Developed **Python-based web applications**  
+- Implemented backend logic, data handling, and project integration  
 
 ---
 
-## 🚀 Projects
+## ⚡ Fun Facts
 
-**FinMate – Smart Family Finance Manager**  
-- Designed and developed a fully functional web application using **HTML, CSS, JavaScript**  
-- Implemented a dark-themed, responsive UI with interactive dashboards, income & expense tracking, savings goals, AI assistant for budget suggestions, and visualization of financial data  
-
-**SoulSync – Mood & Wellness Tracker**  
-- Built with **HTML, CSS, JavaScript (Frontend), Python Flask & MySQL (Backend)**  
-- Tracks moods, offers meditation sessions, period analysis, daily positive quotes, and personalized wellness suggestions  
-
-> Explore my repositories to see live demos, code samples, and detailed documentation of all my projects.
+- 🌟 Curious by nature — love experimenting with new technologies  
+- 🎨 Passionate about **UI/UX design** and clean interfaces  
+- 🤹‍♀️ Enjoy solving **logic puzzles and algorithm challenges**  
+- 🎧 Coding is better with **music playlists on repeat**  
+- 📝 Love **documenting projects and sharing knowledge**  
+- 🌱 Lifelong learner exploring **AI, ML, and web innovations**  
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Samiksha Pinjarkar](https://www.linkedin.com/in/samiksha-pinjarkar-b11327307/)  
-- GitHub: [Samiksha Pinjarkar](https://github.com/samikshapinjarkar)  
-
----
-
-## ⚡ Fun Fact
-
-- Coffee-powered coder ☕ | Lifelong learner 🤓  
-- Love exploring **new technologies** and building **intelligent, interactive web experiences**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiksha-pinjarkar-b11327307/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samikshapinjarkar)
