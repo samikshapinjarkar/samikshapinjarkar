@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Frontend Developer | MERN Stack | Java | Exploring AI & ML</b>
+  <b>💻 Full stack Developer | Java | Exploring AI & ML</b>
 </p>
 
 ---
