@@ -49,23 +49,46 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode,postman,figma" />
+  
+🎨 **Frontend**  
+<img src="https://skillicons.dev/icons?i=html" height="40"/> 
+<img src="https://skillicons.dev/icons?i=css" height="40"/> 
+<img src="https://skillicons.dev/icons?i=js" height="40"/> 
+<img src="https://skillicons.dev/icons?i=react" height="40"/>  
+<br>HTML • CSS • JavaScript • React  
+
+<br>
+
+⚙️ **Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> 
+<img src="https://skillicons.dev/icons?i=express" height="40"/> 
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>  
+<br>Node.js • Express.js • MongoDB  
+
+<br>
+
+💻 **Languages**  
+<img src="https://skillicons.dev/icons?i=java" height="40"/> 
+<img src="https://skillicons.dev/icons?i=python" height="40"/>  
+<br>Java • Python  
+
+<br>
+
+🛠 **Tools**  
+<img src="https://skillicons.dev/icons?i=git" height="40"/> 
+<img src="https://skillicons.dev/icons?i=github" height="40"/> 
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
+<img src="https://skillicons.dev/icons?i=postman" height="40"/> 
+<img src="https://skillicons.dev/icons?i=figma" height="40"/>  
+<br>Git • GitHub • VS Code • Postman • Figma  
+
+<br>
+
+🤖 **Exploring**  
+<img src="https://skillicons.dev/icons?i=python" height="40"/>  
+<br>AI & Machine Learning • Data Analysis  
+
 </p>
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td align="center"><b>Frontend</b><br>HTML, CSS, JavaScript, React</td>
-<td align="center"><b>Backend</b><br>Node.js, Express.js, MongoDB</td>
-<td align="center"><b>Languages</b><br>Java, Python</td>
-<td align="center"><b>Tools</b><br>Git, GitHub, VS Code, Postman, Figma</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <!-- PROJECTS -->
 ## 🚀 Featured Projects
