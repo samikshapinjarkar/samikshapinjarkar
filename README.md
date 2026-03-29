@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78C6C&center=true&vCenter=true&lines=Full+stack+Developer;Java+Programmer;Exploring+AI+%26+ML;Building+Smart+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78C6C&center=true&vCenter=true&lines=Web+Developer;Java+Programmer;Exploring+AI+%26+ML;Building+Smart+Web+Apps" />
 </p>
 
 <p align="center">
-  <b>💻 Full stack Developer | Java | Exploring AI & ML</b>
+  <b>💻 web Developer | Java | Exploring AI & ML</b>
 </p>
 
 ---
