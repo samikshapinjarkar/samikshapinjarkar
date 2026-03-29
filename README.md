@@ -1,37 +1,38 @@
-<h1 align="center">✨ Hi, I'm Samiksha Pinjarkar 👋</h1>
+<h1 align="center">✨ Samiksha Pinjarkar ✨</h1>
 
 <p align="center">
-  <b>Frontend Developer | MERN Stack | Java | Exploring AI & ML</b><br>
-  💡 Building intelligent & interactive web experiences
+  <b>Frontend Developer • MERN Stack • Java • Exploring AI & ML</b><br>
+  <i>Building intelligent, user-focused web experiences 🚀</i>
 </p>
 
 ---
 
 <div align="center">
 
-<table>
+<!-- ABOUT + HIGHLIGHTS CARD -->
+<table width="90%" style="border-radius:20px; overflow:hidden;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" style="padding:20px; background:linear-gradient(135deg,#1f1c2c,#928dab); color:white; border-radius:15px;">
 
 ### 🌟 About Me
 
-- 🎓 B.Tech CSE @ Government College of Engineering, Nagpur  
-- 💻 Frontend Developer (HTML, CSS, JS, React)  
-- ⚙️ MERN Stack (Foundational) & Java  
-- 🤖 Exploring AI & Machine Learning  
-- 🎯 Passionate about building user-friendly & scalable apps  
+🎓 B.Tech CSE @ GCOEN Nagpur  
+💻 Frontend Developer (HTML, CSS, JS, React)  
+⚙️ MERN Stack (Foundational) & Java  
+🤖 Exploring AI & Machine Learning  
+🚀 Passionate about building real-world applications  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" style="padding:20px; background:linear-gradient(135deg,#0f2027,#2c5364); color:white; border-radius:15px;">
 
-### ⚡ Quick Highlights
+### ⚡ Highlights
 
-- 🚀 Strong in **UI/UX & Responsive Design**  
-- 🧠 Problem Solver (DSA & Logic)  
-- 🎨 Love clean & modern interfaces  
-- 🌱 Always learning new technologies  
-- 💡 Turning ideas into real-world projects  
+✨ Strong UI/UX & responsive design  
+🧠 Problem solving with DSA  
+🎨 Love modern & clean interfaces  
+🌱 Continuous learner  
+💡 Turning ideas into impactful solutions  
 
 </td>
 </tr>
@@ -45,19 +46,27 @@
 
 <div align="center">
 
-<table>
+<table width="90%">
 <tr>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>Backend</b></td>
-<td align="center"><b>AI & Data</b></td>
-<td align="center"><b>Tools</b></td>
-</tr>
+<td align="center" style="padding:15px; background:#111; color:white; border-radius:10px;">
+<b>Frontend</b><br><br>
+HTML • CSS • JavaScript • React
+</td>
 
-<tr>
-<td align="center">HTML<br>CSS<br>JavaScript<br>React</td>
-<td align="center">Node.js<br>Express.js<br>MongoDB<br>Java<br>Python</td>
-<td align="center">AI & ML<br>Data Analysis<br>Neural Networks</td>
-<td align="center">Git<br>GitHub<br>VS Code<br>Postman<br>Figma</td>
+<td align="center" style="padding:15px; background:#1a1a1a; color:white; border-radius:10px;">
+<b>Backend</b><br><br>
+Node.js • Express • MongoDB • Java • Python
+</td>
+
+<td align="center" style="padding:15px; background:#111; color:white; border-radius:10px;">
+<b>AI & Data</b><br><br>
+Machine Learning • Data Analysis • Neural Networks
+</td>
+
+<td align="center" style="padding:15px; background:#1a1a1a; color:white; border-radius:10px;">
+<b>Tools</b><br><br>
+Git • GitHub • VS Code • Postman • Figma
+</td>
 </tr>
 </table>
 
@@ -69,29 +78,29 @@
 
 <div align="center">
 
-<table>
+<table width="90%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" style="padding:20px; background:linear-gradient(135deg,#232526,#414345); color:white; border-radius:15px;">
 
 ### 💰 FinMate  
-**Smart Family Finance Manager**
+<b>Smart Family Finance Manager</b>
 
-- 📊 Track income, expenses & savings  
-- 🌙 Dark-themed responsive UI  
-- 🤖 AI-based budget suggestions  
-- 📈 Interactive dashboards & analysis  
+📊 Track income, expenses & savings  
+🌙 Dark-themed modern UI  
+🤖 AI-based budget suggestions  
+📈 Interactive dashboards  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" style="padding:20px; background:linear-gradient(135deg,#42275a,#734b6d); color:white; border-radius:15px;">
 
 ### 🌸 SoulSync  
-**Mood & Wellness Tracker**
+<b>Mood & Wellness Tracker</b>
 
-- 😊 Mood tracking & insights  
-- 🧘 Meditation & relaxation features  
-- 📅 Task reminders & daily quotes  
-- 🗄️ Built with Flask & MySQL  
+😊 Mood tracking & insights  
+🧘 Meditation & relaxation  
+📅 Task reminders & quotes  
+🗄️ Flask + MySQL backend  
 
 </td>
 </tr>
@@ -105,25 +114,21 @@
 
 <div align="center">
 
-<table>
+<table width="80%">
 <tr>
-<td width="50%" align="center">
+<td style="padding:20px; background:#0f2027; color:white; border-radius:15px;">
 
-### 💼 Oasis Infobyte  
-**Intern**
-
-✔ Frontend & Backend Development  
-✔ Worked on MERN Stack projects  
+### 💼 Oasis Infobyte
+- Frontend & Backend Development  
+- Worked on MERN Stack projects  
 
 </td>
 
-<td width="50%" align="center">
+<td style="padding:20px; background:#2c5364; color:white; border-radius:15px;">
 
-### 🐍 TechnoHack Solutions Pvt. Ltd.  
-**Python Developer Intern**
-
-✔ Built Python-based applications  
-✔ Backend logic & data handling  
+### 🐍 TechnoHack Solutions
+- Python Developer Intern  
+- Backend logic & data handling  
 
 </td>
 </tr>
@@ -135,15 +140,13 @@
 
 <h2 align="center">⚡ Fun Facts</h2>
 
-<div align="center">
-
-✨ Always curious — love exploring new tech  
-🎨 Passionate about UI/UX & clean design  
-🤹‍♀️ Enjoy solving logic puzzles  
-🎧 Coding + Music = Perfect combo  
-🌱 Lifelong learner in AI & Web  
-
-</div>
+<p align="center">
+✨ Curious mind exploring new tech<br>
+🎨 UI/UX lover & design enthusiast<br>
+🤹‍♀️ Enjoy solving logic puzzles<br>
+🎧 Coding with music = productivity boost<br>
+🌱 Growing daily in AI & Web Development
+</p>
 
 ---
 
@@ -151,7 +154,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samiksha-pinjarkar-b11327307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Samiksha-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/samikshapinjarkar">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
@@ -161,5 +164,5 @@
 ---
 
 <p align="center">
-  ⭐️ <b>“Building smart solutions, one project at a time.”</b>
+  <b>🚀 “Design. Build. Innovate.”</b>
 </p>
