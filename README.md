@@ -1,41 +1,53 @@
 <!-- HEADER -->
-<h1 align="center" style="font-size:40px;">
-  ✨ Samiksha Pinjarkar ✨
-</h1>
+<h1 align="center">✨ Samiksha Pinjarkar ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78C6C&center=true&vCenter=true&lines=Web+Developer;Java+Programmer;Exploring+AI+%26+ML;Building+Smart+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6F91&center=true&vCenter=true&lines=Web+Developer;MERN+Stack+Enthusiast;Java+%26+DSA;Exploring+AI+%26+ML;Building+Smart+Web+Apps" />
 </p>
 
 <p align="center">
-  <b>💻 web Developer | Java | Exploring AI & ML</b>
+  💻 Web Developer • MERN Stack • Java • AI & ML Explorer
 </p>
 
 ---
 
-<!-- ABOUT SECTION -->
+<!-- STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samikshapinjarkar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samikshapinjarkar&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikshapinjarkar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<!-- ABOUT -->
 <h2 align="center">🌟 About Me</h2>
 
 <div align="center">
 
 <table width="95%">
 <tr>
-<td width="50%" style="padding:25px; border-radius:20px; background:linear-gradient(135deg,#141e30,#243b55); color:white; box-shadow:0 8px 20px rgba(0,0,0,0.3);">
+<td width="50%" style="padding:25px; border-radius:20px; background:linear-gradient(135deg,#1d2671,#c33764); color:white;">
 
 🎓 B.Tech CSE @ Government College of Engineering, Nagpur  
-💻 Frontend Developer (HTML, CSS, JavaScript, React)  
+💻 Frontend Developer (HTML, CSS, JS, React)  
 ⚙️ MERN Stack (Foundational) & Java  
 🤖 Exploring AI & Machine Learning  
 🚀 Passionate about building real-world applications  
 
 </td>
 
-<td width="50%" style="padding:25px; border-radius:20px; background:linear-gradient(135deg,#42275a,#734b6d); color:white; box-shadow:0 8px 20px rgba(0,0,0,0.3);">
+<td width="50%" style="padding:25px; border-radius:20px; background:linear-gradient(135deg,#0f2027,#2c5364); color:white;">
 
 ✨ Strong in UI/UX & responsive design  
-🧠 Problem solver (DSA & logic building)  
-🎨 Love clean, modern interfaces  
-🌱 Continuous learner & explorer  
+🧠 Problem solver (DSA & logic)  
+🎨 Love modern & clean interfaces  
+🌱 Continuous learner  
 💡 Turning ideas into impactful solutions  
 
 </td>
@@ -53,22 +65,22 @@
 
 <table width="95%">
 <tr>
-<td align="center" style="padding:20px; border-radius:15px; background:#0f172a; color:#fff;">
+<td align="center" style="padding:20px; border-radius:15px; background:#111; color:white;">
 <h4>🎨 Frontend</h4>
-HTML • CSS • JavaScript • React • Responsive UI
+HTML • CSS • JavaScript • React
 </td>
 
-<td align="center" style="padding:20px; border-radius:15px; background:#1e293b; color:#fff;">
+<td align="center" style="padding:20px; border-radius:15px; background:#1a1a1a; color:white;">
 <h4>⚙️ Backend</h4>
 Node.js • Express • MongoDB • Java • Python
 </td>
 
-<td align="center" style="padding:20px; border-radius:15px; background:#0f172a; color:#fff;">
+<td align="center" style="padding:20px; border-radius:15px; background:#111; color:white;">
 <h4>🤖 AI & Data</h4>
-Machine Learning • Data Analysis • Neural Networks
+Machine Learning • Data Analysis
 </td>
 
-<td align="center" style="padding:20px; border-radius:15px; background:#1e293b; color:#fff;">
+<td align="center" style="padding:20px; border-radius:15px; background:#1a1a1a; color:white;">
 <h4>🛠 Tools</h4>
 Git • GitHub • VS Code • Postman • Figma
 </td>
@@ -86,26 +98,26 @@ Git • GitHub • VS Code • Postman • Figma
 
 <table width="95%">
 <tr>
-<td width="50%" style="padding:25px; border-radius:20px; background:linear-gradient(135deg,#232526,#414345); color:white; box-shadow:0 6px 15px rgba(0,0,0,0.3);">
+<td width="50%" style="padding:25px; border-radius:20px; background:linear-gradient(135deg,#232526,#414345); color:white;">
 
 <h3>💰 FinMate</h3>
 <b>Smart Family Finance Manager</b>
 
-📊 Track income, expenses & savings  
-🌙 Modern dark-themed UI  
-🤖 AI-based budget suggestions  
-📈 Interactive financial dashboards  
+📊 Income & expense tracking  
+🌙 Dark-themed UI  
+🤖 AI-based budget assistant  
+📈 Financial dashboards  
 
 </td>
 
-<td width="50%" style="padding:25px; border-radius:20px; background:linear-gradient(135deg,#ff758c,#ff7eb3); color:white; box-shadow:0 6px 15px rgba(0,0,0,0.3);">
+<td width="50%" style="padding:25px; border-radius:20px; background:linear-gradient(135deg,#ff758c,#ff7eb3); color:white;">
 
 <h3>🌸 SoulSync</h3>
 <b>Mood & Wellness Tracker</b>
 
-😊 Mood tracking & insights  
-🧘 Meditation & relaxation tools  
-📅 Task reminders & daily quotes  
+😊 Mood tracking  
+🧘 Meditation features  
+📅 Task reminders  
 🗄 Flask + MySQL backend  
 
 </td>
@@ -127,7 +139,7 @@ Git • GitHub • VS Code • Postman • Figma
 
 <h3>💼 Oasis Infobyte</h3>
 ✔ Frontend & Backend Development  
-✔ Worked on MERN Stack projects  
+✔ MERN Stack projects  
 
 </td>
 
@@ -149,11 +161,11 @@ Git • GitHub • VS Code • Postman • Figma
 <h2 align="center">⚡ Fun Facts</h2>
 
 <p align="center">
-✨ Curious & always exploring new tech <br>
+✨ Curious & always exploring tech <br>
 🎨 UI/UX design enthusiast <br>
-🤹‍♀️ Love solving logical challenges <br>
-🎧 Coding with music boosts productivity <br>
-🌱 Growing daily in AI & Web Development  
+🤹‍♀️ Love solving problems <br>
+🎧 Coding + Music = Perfect combo <br>
+🌱 Growing in AI & Web Dev  
 </p>
 
 ---
@@ -163,7 +175,7 @@ Git • GitHub • VS Code • Postman • Figma
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samiksha-pinjarkar-b11327307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Samiksha-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/samikshapinjarkar">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
@@ -173,5 +185,5 @@ Git • GitHub • VS Code • Postman • Figma
 ---
 
 <p align="center">
-  💎 <b>"Design. Build. Innovate."</b> 💎
+  💎 <b>"Code. Create. Innovate."</b> 💎
 </p>
