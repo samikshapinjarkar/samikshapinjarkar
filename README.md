@@ -101,6 +101,7 @@ AI & Machine Learning • Data Analysis
 </p>
 
 ---
+
 <!-- PROJECTS -->
 ## 🚀 Featured Projects
 
