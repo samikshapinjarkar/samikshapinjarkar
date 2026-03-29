@@ -99,6 +99,8 @@ Git • GitHub • VS Code • Postman • Figma
 AI & Machine Learning • Data Analysis  
 
 </p>
+
+---
 <!-- PROJECTS -->
 ## 🚀 Featured Projects
 
